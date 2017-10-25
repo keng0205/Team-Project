@@ -1,0 +1,332 @@
+body{
+	padding : 0px;
+	margin : 0px;
+}
+
+.loginTHTD{
+	padding : 0px 20px;
+}
+
+.loginTable{
+	margin : 15px 20px;
+}
+
+.inputStyle{
+	color : black;
+}
+
+.headerBanner{
+	background-color : black;
+	color : white;
+	width : 100%;
+	padding : 0px;
+	margin : 0px;
+	overflow : auto;
+}
+
+.title{
+	width : 70%;
+}
+
+.titleDiv{
+	margin-top : 5px;
+	margin : 20px;
+	width : 60%;
+	float : left;
+}
+
+.logoutDiv{
+	float : right;
+	margin-top : 20px;
+	margin-right : 20px;
+}
+
+#usernameDiv, #passwordDiv, .loginButton{
+	display : inline-block;
+	margin : 10px 10px;
+}
+
+.loginButton{
+	float : right;
+}
+
+#createNewAccount, .content, .wrapper{
+	width : 90%;
+	margin : 30px auto auto auto;
+}
+
+#OHD_PD_wrapper{
+	margin : 30px;
+}
+
+#OHD{
+	margin : 20px;
+}
+
+#PD{
+	margin-top : 40px;
+}
+
+#innerPD{
+	margin : 20px;
+}
+
+input {
+	padding : 2px;
+}
+
+.editInputStyle{
+	margin : 10px;
+}
+
+.regLabelStyle, .regInputStyle, #eduLevelDiv{
+	display : inline-block;
+}
+
+.reqField{
+	color : red;
+	font-size : 12px;
+}
+
+.reqFieldTD{
+	width : 100px;
+	padding-left : 10px;
+}
+
+.formTable{
+	width : 800px;
+	margin : auto;
+}
+
+.labelTD{
+	width : 220px;
+	padding : 10px 0px;
+}
+
+.regLabelStyle, .addLabelStyle{
+	width : 100%;
+	text-align : right;
+}
+
+
+.regInputStyle, .addInputStyle{
+	width : 100%;
+}
+
+.regH1{
+	font-weight : bold;
+	font-size : 28px;
+}
+
+.regH2{
+	font-weight : bold;
+	font-style : italic;
+	font-size : 20px;
+}
+
+.regH3{
+	font-weight : bold;
+	font-style : oblique;
+	font-size : 18px;
+}
+
+#regNextDiv{
+	margin : 20px 3px 20px 20px;
+	float : right;
+}
+
+.navBarDiv{
+	margin : 20px auto;
+	width : 100%;
+}
+
+
+.navBar li{
+	width : 200px;
+	text-align : center;
+}
+
+.nav-item a{
+	color : black;
+}
+
+#oHProfileDiv{
+	width : 90%;
+	margin : auto;
+	padding : 0px 30px 30px;
+}
+
+#oHProfileDiv h3{
+	margin : 20px;
+}
+
+#principalDiv{
+	margin : 20px 0px;
+	padding : 20px;
+}
+
+.content h1{
+	font-size : 30px;
+}
+
+.content h2{
+	text-align : right;
+	font-size : 20px;
+	line-height : 5px;
+}
+
+.content h3, h4{
+	font-size : 16px;
+	line-height : 1px;
+}
+
+.content h2, .content h3, .addressDiv, .editInputStyle{
+	display : inline-block;
+	width : 40%;
+}
+
+#editBtnDiv, #saveBtnDiv{
+	float : right;
+}
+
+.zeroResult{
+	margin : 40px;
+}
+
+.searchBarDiv{
+	display : inline-block;
+	width : 79%;
+	height : 45px;
+}
+
+.changeToArchiveList, .changeToChildrenList, .changeToRegChild, .changeToOrphanageHomeList{
+	height : 45px;
+	margin-top : 12px;
+}
+.stateList{
+	height : 45px;
+	margin-top : 12px;
+}
+
+.changeToRegChild, .changeToArchiveList{
+	width : auto;
+	display : inline-block;
+}
+
+.searchBar{
+	font-size : 20px;
+	width : 40%;
+}
+
+.btn-grey{
+	background-color : rgb(70,70,70);
+	color : white;
+}
+
+.searchButton{
+	display : inline-block;
+}
+
+.input-group button{
+	height : 43px;
+	margin-left : -3px;
+	color : grey;
+}
+
+#regChildTable h2{
+	text-align : right;
+	font-size : 20px;
+}
+
+.regChildTB{
+	width : 100%;
+}
+
+.chgPwTB{
+	width : 400px;
+}
+
+#changePwTable{
+	margin : auto;
+}
+
+#changePwTable td{
+	padding : 10px 15px;
+}
+
+#changePwTable, #regChildTable{
+	text-align : right;
+}
+
+.eduRadioTd{
+	text-align : left;
+}
+
+.eduRadioTd div{
+	display : inline-block;
+	padding : 4px 10px;
+}
+
+.formTable td{
+	padding : 5px 15px;
+}
+
+.tdWidth{
+	width : 600px;
+}
+
+.schoolTabWidth{
+	width : 200px;
+}
+
+.telFirst3 {
+	width : 44px;
+}
+
+.telRest{
+	width : 125px;
+}
+
+.poscodeInput{
+	width : 77px;
+}
+
+.sortTH {
+	color : white;
+}
+ 
+.sortTH:hover {
+	color : grey;
+}
+
+select {
+	padding : 3px 1px;
+}
+
+.resultTFoot{
+	text-align : right;
+	font-weight : bold;
+}
+
+.detailLabelTD{
+	font-size : 22px;
+}
+
+.detailDescTD{
+	font-size : 20px;
+}
+ 
+.reqField{
+	color : red;
+	font-size : 12px;
+}
+ 
+ .right-align{
+	text-align : right;
+	width : 100%;
+	padding : 5px 20px;
+	font-size : 15px;
+	display : block;
+}
+
+ 
